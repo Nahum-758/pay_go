@@ -1,5 +1,7 @@
 PayGo Mobile
 
+Camarillo Solano Ángel Nahúm
+González Rendón Ricardo 
 # 1. Descripción Breve
 
 PayGo es una aplicación móvil desarrollada en Flutter para la gestión eficiente de pagos cotidianos y servicios financieros. La plataforma permite a los usuarios monitorear saldos en tiempo real, registrar y pagar servicios activos (como agua, electricidad e internet), administrar métodos de pago, agendar citas de atención y acceder a paneles de control adaptados según el rol del usuario.
